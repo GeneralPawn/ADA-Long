@@ -45,3 +45,7 @@ I believe this Platform can greatly enhance systems created already in the ADA c
 
 
 
+Metadata
+
+{ "version": "1.0", "b7ea59616ad921c6f5b5ce0050cfb665d6ec403fe82be1114b51e9b4": { "FRD": { "name": "Freedom", "symbol": "FRD", "minting": { "type": "time-lock-policy", "blockchain": "cardano", "mintedBeforeSlotNumber": 38203718 }, "tokenType": "token", "description": "FRD or Freedom token is a peer to peer, transactional.", "totalSupply": 1000000000000 } } }
+
